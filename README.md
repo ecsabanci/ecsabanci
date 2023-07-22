@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emre</h1>
-<h3 align="center">A passionate frontend developer from Istanbul, Turkey</h3>
+<h3 align="center">Frontend developer from Istanbul, Turkey 💻</h3>
 
 <p align="left"> <a href="https://twitter.com/ecsabanci" target="blank"><img src="https://img.shields.io/twitter/follow/ecsabanci?logo=twitter&style=for-the-badge" alt="ecsabanci" /></a> </p>
 
