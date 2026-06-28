@@ -4,8 +4,7 @@
 
 ### Frontend-leaning fullstack developer from Turkey 💻
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ecsabanci.com-FF5C39?style=for-the-badge&logo=vercel&logoColor=white)](https://ecsabanci.com)
-[![Resume](https://img.shields.io/badge/Resume-View-2D2D2D?style=for-the-badge&logo=readdotcv&logoColor=white)](https://ecsabanci.com/resume)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ecsabanci.com-FF5C39?style=for-the-badge&logo=vercel&logoColor=white)](https://ecsabanci.vercel.app/)
 [![Medium](https://img.shields.io/badge/Medium-Writing-000000?style=for-the-badge&logo=medium&logoColor=white)](https://ecsabanci.medium.com)
 [![Gmail](https://img.shields.io/badge/Email-ecsabancii@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ecsabancii@gmail.com)
 
