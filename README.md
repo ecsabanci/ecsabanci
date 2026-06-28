@@ -1,40 +1,54 @@
-<h1 align="center">Hi 👋, I'm Emre</h1>
-<h3 align="center">Frontend developer from Istanbul, Turkey 💻</h3>
+<div align="center">
 
-<p align="left"> <a href="https://twitter.com/ecsabanci" target="blank"><img src="https://img.shields.io/twitter/follow/ecsabanci?logo=twitter&style=for-the-badge" alt="ecsabanci" /></a> </p>
+# Hi 👋, I'm Emre
 
-- 🔭 I’m currently working on **JavaScript, VueJS, SQL and PHP**
+### Frontend-leaning fullstack developer from Turkey 💻
 
-- 🌱 I’m currently learning **NextJS**
+[![Portfolio](https://img.shields.io/badge/Portfolio-ecsabanci.com-FF5C39?style=for-the-badge&logo=vercel&logoColor=white)](https://ecsabanci.com)
+[![Resume](https://img.shields.io/badge/Resume-View-2D2D2D?style=for-the-badge&logo=readdotcv&logoColor=white)](https://ecsabanci.com/resume)
+[![Medium](https://img.shields.io/badge/Medium-Writing-000000?style=for-the-badge&logo=medium&logoColor=white)](https://ecsabanci.medium.com)
+[![Gmail](https://img.shields.io/badge/Email-ecsabancii@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ecsabancii@gmail.com)
 
-- 👯 I’m looking to collaborate on **ReactJS and React Native**
+</div>
 
-- 👨‍💻 All of my projects are available at [ecsabanci.com](ecsabanci.com)
+---
 
-- 📝 I regularly write articles on [https://ecsabanci.medium.com](https://ecsabanci.medium.com)
+### About me
 
-- 💬 Ask me about **JavaScript, VueJS and ReactJS**
+- 🔭 Working day-to-day with **JavaScript, Vue.js, PHP and SQL**
+- 🌱 Building with **React, Next.js and TypeScript** on personal projects
+- 💬 Ask me about **JavaScript, Vue.js and React**
+- ✍️ I write on [Medium](https://ecsabanci.medium.com)
+- 📫 Reach me at **ecsabancii@gmail.com**
+- 💼 Open to remote and international roles
 
-- 📫 How to reach me **ecsabancii@gmail.com**
+---
 
-- 📄 Know about my experiences [ecsabanci.com/resume](ecsabanci.com/resume)
+### Tech stack
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ecsabanci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ecsabanci" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ecsabanci/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ecsabanci/" height="30" width="40" /></a>
-<a href="https://medium.com/@ecsabanci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ecsabanci" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+### GitHub stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ecsabanci&show_icons=true&locale=en&layout=compact" alt="ecsabanci" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ecsabanci&show_icons=true&locale=en" alt="ecsabanci" /></p>
+![Emre's GitHub stats](https://github-readme-stats.vercel.app/api?username=ecsabanci&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ecsabanci&" alt="ecsabanci" /></p>
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ecsabanci&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
+
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=ecsabanci&theme=tokyonight&hide_border=true)
+
+</div>
