@@ -1,53 +1,60 @@
-<div align="center">
+<h1 align="center">Emre Çağrı Sabancı</h1>
 
-# Hi 👋, I'm Emre
+<p align="center">
+  Fullstack Developer · Ankara, Turkey
+</p>
 
-### Frontend-leaning fullstack developer from Turkey 💻
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-ecsabanci.com-FF5C39?style=for-the-badge&logo=vercel&logoColor=white)](https://ecsabanci.vercel.app/)
-[![Medium](https://img.shields.io/badge/Medium-Writing-000000?style=for-the-badge&logo=medium&logoColor=white)](https://ecsabanci.medium.com)
-[![Gmail](https://img.shields.io/badge/Email-ecsabancii@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ecsabancii@gmail.com)
-
-</div>
-
----
-
-### About me
-
-- 🔭 Working day-to-day with **JavaScript, Vue.js, PHP and SQL**
-- 🌱 Building with **React, Next.js and TypeScript** on personal projects
-- 💬 Ask me about **JavaScript, Vue.js and React**
-- ✍️ I write on [Medium](https://ecsabanci.medium.com)
-- 📫 Reach me at **ecsabancii@gmail.com**
-- 💼 Open to remote and international roles
+<p align="center">
+  <a href="https://linkedin.com/in/ecsabanci"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://ecsabanci.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:ecsabancii@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 ---
 
-### Tech stack
+Five years of building for the web, most of it in TypeScript. I work across the stack, but the frontend is where I am sharpest.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Tech
 
----
+**Languages**
 
-### GitHub stats
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-<div align="center">
+**Frontend**
 
-![Emre's GitHub stats](https://github-readme-stats.vercel.app/api?username=ecsabanci&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ecsabanci&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
+**Backend & data**
 
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=ecsabanci&theme=tokyonight&hide_border=true)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-025E8C?style=flat-square&logo=fastapi&logoColor=white)
 
-</div>
+**Tooling**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+### Experience highlights
+
+- Stepped in as **deputy team lead**, running releases, coordinating a core team of three developers, and reviewing and assigning tickets
+- Built **multi-tenant SaaS modules** shipped to enterprise pharmaceutical clients across several regions, one codebase driven entirely by per-client configuration
+- Shipping **native mobile components** for apps used at scale
+- Comfortable owning a feature end to end, from refinement and requirements through to release
+
+<p align="center"><i>Always building something.</i></p>
